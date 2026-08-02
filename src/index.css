@@ -1,0 +1,10 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Bricolage Grotesque", sans-serif;
+  background: #FBF8F6;
+  color: #191512;
+}
